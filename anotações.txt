@@ -1,0 +1,27 @@
+https://www.youtube.com/watch?v=mRogW0vMJuI&t=24s 
+
+1-instalação e configuração de XAMPP 
+
+2-tags PHP para criar um arquivo PHP, <?php ?>
+
+3-com o uso de 'include', é possível incluir de dados de um arquivo, em outro, possibilitando o uso do mesmo 
+
+4-'require' faz a mesma coisa, porém se encontrar um erro, a leitura do código não continua 
+
+5-variável, é a representação de um valor, podendo ser string, number, boolean, arrays, object, null 
+
+6-padrões de nomeação de variáveis: camelCase e snake_case 
+
+7-constante cria-se usando define(), nome sempre maiúsculo 
+
+8-ponto e vírgula sempre no final da instrução 
+
+9-PHP admite todo tipo de cálculo aritmético(+, -, *, /, %), respeita as precedências de operações
+
+10-operadores de atribuição(=, .=)
+
+11-incremento e decremento(++, --) antes ou depois da variável 
+
+12-operadores de comparação, sempre retorna um booleano(<, >, <=, >=, etc)
+
+parei em 55 min
