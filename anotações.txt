@@ -22,6 +22,42 @@ https://www.youtube.com/watch?v=mRogW0vMJuI&t=24s
 
 11-incremento e decremento(++, --) antes ou depois da variável 
 
-12-operadores de comparação, sempre retorna um booleano(<, >, <=, >=, etc)
+12-operadores de comparação, sempre retorna um booleano(<, >, <=, >=, etc), == é igual em valor, === igual em valor e tipo 
 
-parei em 55 min
+13-operadores lógicos, &&, ||, !, 
+
+14-métodos para usar com strings e numbers 
+
+15-arrays, servem para guardar mais de um valor dentro de uma única varável 
+
+16-convertendo um array para objeto de maneira prática, possível para todo tipo de dados 
+    $novoArray = (object) $array;
+
+17-looping for, trabalha com qual valor valor a variável contadora irá iniciar, depois qual vai ser a condição de execução, e por fim o incremento ou decremento a cada volta 
+
+18-looping while, a incremento ou decremento é executado por último
+
+19-looping do while, a incremento ou decremento é executado por primeiro, por tanto, executando sempre pelo menos uma vez
+
+20-looping foreach, significa "para cada", no caso, para cada chave e valor dentro do array, 
+
+21-funções-são ações, serviços, lógicas que são feitas uma vez, mas podem serem reutilizadas sempre que necessário, estando dentro de uma variável ou não 
+
+22-closure, são funções anônimas(sem nome), porém sempre estão dentro de uma variável, para poderem serem usadas 
+
+23-callbacks são, funções  passadas como parâmetro para outras funções
+
+24-verificar se uma varável existe, usa-se o isset
+
+25-escopo e variável global, global e a area de codigo como um todo, a local, é por exemplo, dentro das chaves de uma função.
+
+26-Super globais, são variáveis que sempre começar com $, em seguida _ e o nome todo maiúsculo
+    $_COOKIE, é uma valor guardado no navegador, podendo ser resgatado em qualquer parte do navegador, tem uma data de validade, tem um prazo, definido quando é criado 
+    $_SESSION, sessão, é um valor guardado no navegador, mas não é guardado o valor da sessão, esse valor só pode ser regatado por um ID 
+    $_FILES, possibilita pegar arquivos, dados submetidos em formulários 
+    $_GET, $_POST serve para pegar das URLs as variáveis 
+    $_REQUEST, possibilita pegar tanto $_GET quanto o $_POST 
+
+27-$_COOKIE, criado com uma função setcookie(), portanto, existe um métido que já permite a definição do mesmo 
+
+PAREI EM 3:14
