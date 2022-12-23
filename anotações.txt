@@ -60,4 +60,4 @@ https://www.youtube.com/watch?v=mRogW0vMJuI&t=24s
 
 27-$_COOKIE, criado com uma função setcookie(), portanto, existe um métido que já permite a definição do mesmo 
 
-PAREI EM 3:14
+PAREI EM 3:23

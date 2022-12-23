@@ -73,4 +73,8 @@ echo "Esta variável não existe"; */
 
 print_r($_COOKIE['name']); */
 
+/* session_start();
 
+require './teste.php';
+
+ $_SESSION['name'] = 'Walter'; */
